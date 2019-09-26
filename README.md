@@ -45,7 +45,7 @@ public class demo1{
 }
 ```
 
-![GWAWA](GWAWA.png)
+![Demo](Demo.jpg)
 
 
 [![阿拉花瓜](GWAWA.png)](https://www.youtube.com/watch?v=3RSLhy3mDZM)
