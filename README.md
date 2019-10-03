@@ -27,4 +27,4 @@
 ![Sclass](Sclass.png)
 
 9.
-![system](system.png)
+![system1](system1.png)
