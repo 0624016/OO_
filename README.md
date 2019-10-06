@@ -24,7 +24,9 @@
    
 7. 我是一個玩家，我希望不靠手把控制以便能讓我更精確操控角色。
 8.
-![Sclass](Sclass.png)
+![object](object.png)
+![avatar](avatar.png)
+![option](option.png)
 
 9.
 ![system1](system1.png)
