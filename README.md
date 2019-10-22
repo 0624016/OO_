@@ -78,9 +78,7 @@
 
 # 8.**初步類別圖:**
 
-![object](object.png)
-![avatar](avatar.png)
-![option](option.png)
+![usercon](usercon.png)
 ![maintance](maintance.png)
 
 # 9.**系統循序圖:**
