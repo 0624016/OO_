@@ -69,6 +69,11 @@
 ### 功能選單類別圖
 
 ![option](option.png)
+
+### 環境感測類別圖
+
+![環境](環境.png)
+
 ![usercon](usercon.png)
 
 # 9.**循序圖:**
