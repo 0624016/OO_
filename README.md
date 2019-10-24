@@ -58,9 +58,9 @@
 
 # 8.**初步類別圖:**
 
-![devlop](devlop.png)
-![maintance](maintance.png)
-![usercon](usercon.png)
+![avatar](avatar.png)
+![object](object.png)
+![option](option.png)
 
 # 9.**循序圖:**
 
