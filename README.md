@@ -58,8 +58,16 @@
 
 # 8.**初步類別圖:**
 
+### 位移類別圖
+
 ![avatar](avatar.png)
+
+### 拿取物品類別圖
+
 ![object](object.png)
+
+### 功能選單類別圖
+
 ![option](option.png)
 ![usercon](usercon.png)
 
